@@ -3,14 +3,14 @@
   <groupId>com.demo</groupId>
   <artifactId>wonder</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>wonder Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
 	<connection>scm:git:git@github.com:madunalakrishna/wonder.git</connection>
 	<url>scm:git:git@github.com:madunalakrishna/wonder.git</url>
 	<developerConnection>scm:git:git@github.com:madunalakrishna/wonder.git</developerConnection>
-       <tag>wonder-0.0.2</tag>
+       <tag>HEAD</tag>
 </scm>
 
 <distributionManagement>
