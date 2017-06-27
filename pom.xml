@@ -18,15 +18,15 @@
 	<!-- Publish the versioned snapshot here -->
 	<repository>
 		<id>wonder</id>
-		<name>wonder</name>
-		<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+		<name>wonder-nexus</name>
+		<url>http://localhost:8081/nexus/content/repositories/releases</url>
 	</repository>
 
 	<!-- Publish the versioned releases here -->
 	<snapshotRepository>
 		<id>wonder</id>
-		<name>wonder</name>
-		<url>http://localhost:8081/nexus/content/repositories/releases</url>
+		<name>wonder-nexus</name>
+		<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
 	</snapshotRepository>
 </distributionManagement>
 
